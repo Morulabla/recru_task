@@ -1,6 +1,5 @@
 {
-    "pageLoadTimeout": 120000,
-    "testFiles": "**/*.feature"
+    "pageLoadTimeout": 120000
 }
 
 
